@@ -6,6 +6,9 @@
 body {
     background-color: #f6f8fc;
 }
+.title {
+    text-align: center;
+}
 
 .content {
     width: 100vw;
